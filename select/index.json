@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "There's Nothing Holdin' Me Back",
+  "base_artist": "ショーン・メンデス",
+  "createdAt": "2026-03-16T19:51:20.545098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/01_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "ShawnMendesVEVO",
+      "has_synced": true,
+      "path": "select/02_There's_Nothing_Holdin'_Me_Back_ShawnMendesVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/03_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/04_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "There’s Nothing Holdin’ Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/05_There’s_Nothing_Holdin’_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/06_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/07_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "VOILÀ",
+      "has_synced": true,
+      "path": "select/08_There's_Nothing_Holdin'_Me_Back_VOILÀ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/09_There's_Nothing_Holdin'_Me_Back_Song.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back (Speed)",
+      "artist": "Ren",
+      "has_synced": false,
+      "path": "select/10_There's_Nothing_Holdin'_Me_Back_(Speed)_Ren.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There’s Nothing Holdin’ Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/11_There’s_Nothing_Holdin’_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Sing",
+      "has_synced": false,
+      "path": "select/12_There's_Nothing_Holdin'_Me_Back_Sing.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "ショーン・メンデス",
+      "has_synced": false,
+      "path": "select/pl_01_There's_Nothing_Holdin'_Me_Back_ショーン・メンデス.txt"
+    }
+  ]
+}
